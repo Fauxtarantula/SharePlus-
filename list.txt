@@ -1,0 +1,25 @@
+Donor
+rakin
+Gadget
+tracetogether
+23
+lol
+Gadget
+lol
+40
+rakin
+Gadget
+Breathalizer
+56
+rakin
+Food
+Rice
+3
+lol
+Gadget
+Covid test kit
+-10
+rakin
+Food
+bread
+-10
