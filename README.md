@@ -1,5 +1,4 @@
-# SharePlus+
-# A Simple web app designed to aid those in need with Covid-19 essential amenities during this trying period.
+# SharePlus+, a Simple web app designed to aid those in need with Covid-19 essential amenities during this trying period.
 
 This web app facilitates the donation of Covid-19 related products among those who are facing difficulty financially during this Covid period.
 
