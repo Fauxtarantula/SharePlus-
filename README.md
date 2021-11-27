@@ -5,3 +5,5 @@
 # Features
 Login/Register page that determines the user 'roles' based on financial standing (Has yet to be implemented as apparently I do not have the permission to view others earnings)
 A dashboard display that allows the Users to easily navigate through the functions provided.
+
+*Note that this version does not require SQLdatabase like the original code as this is just a proof of concept. 
